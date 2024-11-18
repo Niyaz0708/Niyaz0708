@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Niyaz0708
-- 👀 I’m interested in coading
+- 👋 Hi, I’m NIYAZ 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on:- excited to see our assembled talents
 - 📫 How to reach me :-IG @niyaz_.08
-- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
