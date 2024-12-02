@@ -1,8 +1,7 @@
 - 👋 Hi, I’m NIYAZ 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on:- excited to see our assembled talents
+- 💞️ I’m looking to collaborate on .............
 - 📫 How to reach me :-IG @niyaz_.08
-- ⚡ Fun fact: ...
 
 <!---
 Niyaz0708/Niyaz0708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
