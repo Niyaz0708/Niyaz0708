@@ -1,5 +1,5 @@
 - 👋 Hi, I’m NIYAZ 
-- 🌱 I’m currently learning python & bootstrap
+- 🌱 I’m currently learning data analyst (python, SQL, powerBI, numpy, excel)
 - 💞️ I’m looking to collaborate on .............
 - 📫 You can find me on-IG @niyaz0x0 or  [X :-@md6372]
 <!---
